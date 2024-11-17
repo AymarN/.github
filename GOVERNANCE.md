@@ -1,16 +1,11 @@
 # Project Governance
 
-Because project governance varies widely, we offer several templates covering
-common systems of governance used by various CNCF projects.  In order to
-adopt them, choose the one closest to how you want your project to be governed,
-then rename the appropriate `GOVERNANCE-xxx.md` file to GOVERNANCE.md,
-overwriting this file, and customize it.  
+We offer several templates covering common systems of governance used in some repositories.
 
-See the Contributor Strategy document on [Leadership Selection]
-for more background.  Please also review []
+See the Contributor Strategy document or more background. Please also review []
 as preparation for making governance decisions.
 
-## Governance Templates Supplied
+## `GOVERNANCE-maintainer.md`
 
 `GOVERNANCE-maintainer.md` supplies rules for a simple self-selecting council
 of Maintainers as project governance.  It assumes that there is no distinction
@@ -20,10 +15,14 @@ governance is suitable for small, very unified projects, and is often a good
 starting point for project governance.  It is based on the Jaeger project's
 governance.
 
+## `GOVERNANCE-elections.md`
+
 `GOVERNANCE-elections.md` is a template for an elected steering committee,
 where senior leadership is elected by the body of contributors.  This is a
 suitable structure for larger projects with an established community.  The
 template is based on Kubernetes project governance.
+
+## `GOVERNANCE-subprojects.md`
 
 `GOVERNANCE-subprojects.md` is a template for a "project of projects" where
 the CNCF project is more of an umbrella for a bunch of closely related
