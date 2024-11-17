@@ -14,7 +14,6 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 ## Table of Contents
 
 - [Code of Conduct](#code-of-conduct)
-- [I Have a Question]
 - [I Want To Contribute](#i-want-to-contribute)
 - [Reporting Bugs](#reporting-bugs)
 - [Suggesting Enhancements](#suggesting-enhancements)
