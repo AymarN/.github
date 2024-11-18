@@ -1,9 +1,7 @@
 # Project Governance
 
 We offer several templates covering common systems of governance used in some repositories.
-
-See the Contributor Strategy document or more background. Please also review []
-as preparation for making governance decisions.
+See the Contributor Strategy document or more background.
 
 ## `GOVERNANCE-maintainer.md`
 
